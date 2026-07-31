@@ -1,0 +1,10 @@
+*{
+
+    text-decoration: lab(from color lightness channel_a channel_b alpha);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: rgb(154, 154, 207);
+    background-color: rgb(255, 0, 0);
+}
