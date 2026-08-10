@@ -1,2 +1,1 @@
-hello world 
-change made in feature branch branch
+This file contains the resolved changes from both the FEATURE and MAIN branches.
